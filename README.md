@@ -1,4 +1,5 @@
 # lab-charlie-noahc
+[Link to live app on Heroku](https://lab-charlie-noahc.herokuapp.com/)
 
 ## About how Angular is used in this app
 When the user navigates to the main page, "and hi there, tom tom" is one of the things displayed. "tom tom" is part of an object that comes from the `user.json` file, which can be seen on the [/user page](https://lab-charlie-noahc.herokuapp.com/user). `index.js` maps to that file with this bit of code:
